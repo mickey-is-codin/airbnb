@@ -1,0 +1,2 @@
+AirBnb: kaggle datasets download -d dgomonov/new-york-city-airbnb-open-data
+Housing: kaggle datasets download -d new-york-city/nyc-property-sales
